@@ -33,7 +33,7 @@ def fun(x1,y1,x2,y2):
         name = input("Unesite željeno ime datoteke: ")
         plt.savefig(name)  
 
-
+    #test
 
 fun(1,2,3,4)
 
